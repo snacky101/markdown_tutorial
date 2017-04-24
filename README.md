@@ -64,15 +64,16 @@
 
 ## URL 링크
     URL 링크의 경우도 양쪽을 꺾쇠 괄호(<>)로 묶어 사용합니다. 만일 URL 대신 다른 내용을 링크 내용으로 사용하고 싶다면 링크 앞에 대괄호([]) 안에 사용하고자 하는 내용을, 뒤쪽에 소괄호(()) 안에 링크 주소를 입력합니다.
-    ex) <http://github.com>
-        [깃헙](http://github.com)
-- <http://github.com>
-- [깃헙](http://github.com)
+    ex) <https://github.com>
+        [깃헙](https://github.com)
+- <https://github.com>
+- [깃헙](https://github.com)
 
 ## 이미지 넣기
     이미지의 경우 소괄호(()) 안에 이미지의 URL을 넣으면 적용됩니다.
     캡션을 넣으시고 싶은 경우에는 파일 링크 앞에 느낌표와 대괄호를 이용하여 적습니다(![])
-    ex) ![테스트이미지](http://github.com/cliche90/markdown_tutorial/test_img.png)
+    ex) ![테스트이미지](https://github.com/cliche90/markdown_tutorial/github_logo.png)
+![깃헙 이미지](https://github.com/cliche90/markdown_tutorial/github_logo.png)
 
 ## 가로선 넣기
     가로선의 경우 하이픈(-), 별(*), 언더스코어(_) 중 아무 것이나 연달아 세 개 이상 입력하면 적용됩니다.

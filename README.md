@@ -72,8 +72,10 @@
 ## 이미지 넣기
     이미지의 경우 소괄호(()) 안에 이미지의 URL을 넣으면 적용됩니다.
     캡션을 넣으시고 싶은 경우에는 파일 링크 앞에 느낌표와 대괄호를 이용하여 적습니다(![])
-    ex) ![테스트이미지](https://github.com/cliche90/markdown_tutorial/github_logo.png)
-![깃헙 이미지](https://github.com/cliche90/markdown_tutorial/github_logo.png)
+    ex) ![테스트이미지](https://github.com/cliche90/markdown_tutorial/blob/master/github_logo.png?raw=true)
+![깃헙 이미지](https://github.com/cliche90/markdown_tutorial/blob/master/github_logo.png?raw=true)
+
+
 
 ## 가로선 넣기
     가로선의 경우 하이픈(-), 별(*), 언더스코어(_) 중 아무 것이나 연달아 세 개 이상 입력하면 적용됩니다.
